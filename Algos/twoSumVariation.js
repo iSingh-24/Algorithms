@@ -79,9 +79,9 @@ const twoSum = (nums, target) => {
     /**the reason we're doing typeof and testing for number is because we have type casted the string value into an integer/number value when returning the
      * index as well as storing it in the object map
      *
-     * The reason for us doing so is because when we do Object.entries(), the key value pairs are returned to us as string values, so in this case we are
+     * The reason for us doing so is because when we do Object.entries(), the KEY is returned as a STRING, so in this case we are
      * looking for the numerical index of each number, therefore if we return the string form of that number, even though it is loosely equivalent, a type error
-     * will be thrown because it won't be the expected behavior.
+     * will be thrown because it won't be the expected behavior. The value will be whatever the value was stored as, but the KEY will be a STRING.
      */
     if (typeof numObj[difference] === "number") {
       return [numObj[difference], Number(index)];
