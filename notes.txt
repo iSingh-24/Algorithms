@@ -1,0 +1,35 @@
+Three pillars of Code 
+
+1. Readable clean code that others can read and is maintainable 
+2. Speed (Standard practice of correct data structures)
+3. Memory - if it uses a lot of memory, depending on the machine it might pose a problem. 
+    -Space complexity vs Time complexity 
+
+
+1. Readable 
+
+2. Scalable 
+    a. Speed
+    b. Memory
+
+Computers run based on speed and memory 
+
+
+Three pillars of Code 
+
+1. Readable clean code that others can read and is maintainable 
+2. Speed (Standard practice of correct data structures)
+3. Memory - if it uses a lot of memory, depending on the machine it might pose a problem. 
+    -Space complexity vs Time complexity 
+
+
+
+
+Two parts of a program when it executes 
+
+1. Heap - where we store variables/values we assign 
+
+2. Stack - where we keep track of our function calls 
+
+*Sometimes it's better to use less memory instead of less time and vice versa 
+
