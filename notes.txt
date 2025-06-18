@@ -1,3 +1,6 @@
+Big O - WORST CASE SCENARIO. PERTAINS TO HOW EFFICIENT WE CAN RUN OUR CODE. THE AMOUNT OF TIME AND MONEY YOU CAN SAVE FOR A COMPANY IS CRITICAL.
+
+
 Three pillars of Code 
 
 1. Readable clean code that others can read and is maintainable 
